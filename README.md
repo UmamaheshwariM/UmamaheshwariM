@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @UmamaheshwariM
 - 👀 I’m interested in java
 - 🌱 I’m currently pursuing my graduation in artificial intelligence and data science 
-- 📫 How to reach me through umamaheshwarim_ai21@velhughtech.com
+- 📫 How to reach me through
+       official: umamaheshwarim_ai21@velhightech.com
+       personal: abijeevaumaganesh@gmail.com
 - 😄 Pronouns: she/her
 
 
