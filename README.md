@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @UmamaheshwariM
-- 👀 I’m interested in java
+- 👋 Hi, I’m Umamaheshwari M
+- 👀 I’m interested in Data Analytics and Front end Development.
 - 🌱 I’m currently pursuing my graduation in artificial intelligence and data science 
 - 📫 How to reach me through
        official: umamaheshwarim_ai21@velhightech.com
